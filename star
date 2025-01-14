@@ -27,3 +27,10 @@ l=["harry","Soham","Sohel","Jhon" ]
 for name in l:
     if(name.startswith ("S")):
         print((name))
+num=int(input("enter the number"))
+i=1
+while(i<11):
+    print(f"{num} X {i}={num*i}")
+    i=i+1
+
+
