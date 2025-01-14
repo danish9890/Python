@@ -23,3 +23,7 @@ i=1
 while (i<11):
      print(f"{n} X {i} = {n*i}")
      i=i+1
+l=["harry","Soham","Sohel","Jhon" ]
+for name in l:
+    if(name.startswith ("S")):
+        print((name))
