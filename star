@@ -39,4 +39,11 @@ for i in range (1,num+1):
     product=product * i
 print(f"{num} is {product}")
 
+n=int(input("enter the n "))
+for i in range(1,n+1):
+    print(" " * (n-i),end="")
+    print("*" * (2*i-1), end="")
+    print("")
+
+
 
