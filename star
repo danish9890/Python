@@ -46,7 +46,7 @@ for i in range(1,n+1):
     print("")
 
 n=int(input("enter the n "))
-for i in range(1,n+1):
+for i in range(1,n+2):
     print("*" * i, end="")
     print("")
 
