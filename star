@@ -6,7 +6,7 @@ for i in range (1,n+1):
 
 num=int(input("enter a number "))
 product=1
-for i in range (1,num+1):
+for i in range (1,num+2):
     product=product *i
 print(f"the factorial  {num} is {product}")
 
