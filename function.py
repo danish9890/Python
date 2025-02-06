@@ -13,5 +13,3 @@ def pattern(n):
 n=int(input("enter the number "))
 pattern(n)
 
-
-
