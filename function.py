@@ -12,3 +12,5 @@ def pattern(n):
     pattern(n-1)
 n=int(input("enter the number "))
 pattern(n)
+
+print("w222")
